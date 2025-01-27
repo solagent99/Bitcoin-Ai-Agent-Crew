@@ -1,13 +1,12 @@
-<img src="https://aibtc.dev/logos/aibtcdev-primary-logo-black-wide-1000px.png" alt="AIBTC Working Group Logo" style="width: 100%; max-width: 1000px; display: block; margin: 1rem auto;" />
 
-# AIBTC AI Agent Crew
+# Bitcoin AI Agent Crew
 
 > [!IMPORTANT]
 > This repo is now deprecated in favor of:
-> - a TS front-end with Next.js at [aibtcdev-frontend](https://github.com/aibtcdev/aibtcdev-frontend)
-> - a Python back-end with CrewAI at [aibtcdev-backend](https://github.com/aibtcdev/aibtcdev-backend)
+> - a TS front-end with Next.js at [bitcoin-ai-agent-crew-frontend](https://github.com/soladity/bitcoin-ai-agent-crew-frontend)
+> - a Python back-end with CrewAI at [aibtcdev-backend](https://github.com/soladity/bitcoin-ai-agent-crew-frontend)
 > 
-> Be sure to follow along with the latest [on our X account](https://x.com/aibtcdev) and [join our Discord](https://discord.gg/Z59Z3FNbEX)!
+> Be sure to follow along with the latest [on my X account](https://x.com/soladity1) and [join my Telegram](https://t.me/soladity)!
 
 ## Description
 
@@ -45,15 +44,15 @@ Extensible architecture for adding new crews and tools
 1. Clone the repository with submodules:
 
    ```
-   git clone --recurse-submodules https://github.com/aibtcdev/ai-agent-crew.git
-   cd ai-agent-crew
+   git clone --recurse-submodules https://github.com/soladity/bitcoin-ai-agent-crew.git
+   cd bitcoin-ai-agent-crew
    ```
 
 2. Create and activate a virtual environment (using [miniconda](https://docs.anaconda.com/miniconda/)):
 
    ```
-   conda create -n ai-agent-crew python=3.11
-   conda activate ai-agent-crew
+   conda create -n bitcoin-ai-agent-crew python=3.11
+   conda activate bitcoin-ai-agent-crew
    ```
 
 3. Install dependencies:
@@ -61,10 +60,6 @@ Extensible architecture for adding new crews and tools
    ```
    pip install -r requirements.txt
    ```
-
-4. Set up the `agent-tools-ts` submodule:
-
-   Follow the setup instructions in the [agent-tools-ts README](./agent-tools-ts/README.md) to install Bun.js
 
 ### Configuration
 
@@ -122,4 +117,4 @@ We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) fi
 
 ## Contact
 
-If you have any questions about contributing, please open an issue, ask in the [AIBTC Discord](https://discord.gg/Z59Z3FNbEX) or reach out to us on X [@aibtcdev](https://x.com/aibtcdev).
+If you have any questions about contributing, please reach out to me on X [@soladity1](https://x.com/soladity1).
