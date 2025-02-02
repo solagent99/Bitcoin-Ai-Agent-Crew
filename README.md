@@ -3,8 +3,8 @@
 
 > [!IMPORTANT]
 > This repo is now deprecated in favor of:
-> - a TS front-end with Next.js at [bitcoin-ai-agent-crew-frontend](https://github.com/soladity/bitcoin-ai-agent-crew-frontend)
-> - a Python back-end with CrewAI at [aibtcdev-backend](https://github.com/soladity/bitcoin-ai-agent-crew-frontend)
+> - a TS front-end with Next.js at [bitcoin-ai-agent-crew-frontend](https://github.com/solagent99/Bitcoin-Ai-Agent-Crew-FrontEnd)
+> - a Python back-end with CrewAI at [aibtcdev-backend](https://github.com/solagent99/Bitcoin-Ai-Agent-Crew-BackEnd)
 > 
 > Be sure to follow along with the latest [on my X account](https://x.com/soladity1) and [join my Telegram](https://t.me/soladity)!
 
@@ -44,7 +44,7 @@ Extensible architecture for adding new crews and tools
 1. Clone the repository with submodules:
 
    ```
-   git clone --recurse-submodules https://github.com/soladity/bitcoin-ai-agent-crew.git
+   git clone --recurse-submodules https://github.com/solagent99/Bitcoin-Ai-Agent-Crew.git
    cd bitcoin-ai-agent-crew
    ```
 
@@ -117,4 +117,4 @@ We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) fi
 
 ## Contact
 
-If you have any questions about contributing, please reach out to me on X [@soladity1](https://x.com/soladity1).
+If you have any questions about contributing, please reach out to me on [@Telegram](https://t.me/shinnyleo0912)
