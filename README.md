@@ -6,7 +6,7 @@
 > - a TS front-end with Next.js at [bitcoin-ai-agent-crew-frontend](https://github.com/solagent99/Bitcoin-Ai-Agent-Crew-FrontEnd)
 > - a Python back-end with CrewAI at [aibtcdev-backend](https://github.com/solagent99/Bitcoin-Ai-Agent-Crew-BackEnd)
 > 
-> Be sure to follow along with the latest [on my X account](https://x.com/soladity1) and [join my Telegram](https://t.me/soladity)!
+> Be sure to follow along with the latest [on my X account](https://x.com/web3batman) and [join my Telegram](https://t.me/shinnyleo0912)!
 
 ## Description
 
